@@ -1,3 +1,4 @@
+年龄	近视	散光	眼泪	类
 young	myope	no	reduced	no lenses
 young	myope	no	normal	soft
 young	myope	yes	reduced	no lenses
